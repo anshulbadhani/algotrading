@@ -1,7 +1,7 @@
 # math
 I will upload all the math projects I make here, while studying for my Mathematics And Computing degree.
 
-# [Differential Equation Plotter](/Differerntial Equations/FirstOrderLinearODE_Plotter/firstlinearodeplotter.py)
+# [Differential Equation Plotter]([/Differerntial Equations/FirstOrderLinearODE_Plotter/firstlinearodeplotter.py](https://github.com/anshulbadhani/math/blob/main/Differerntial%20Equations/FirstOrderLinearODE_Plotter/firstlinearodeplotter.py))
 This is a program I made using [sympy](https://docs.sympy.org/latest/index.html); An Open Source [Computer Algebra System](https://en.wikipedia.org/wiki/Computer_algebra_system) (to parse inputs), Numpy and Matplotlib, to plot [direction fields](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/resources/mit18_03s10_c01/) of first order differential equations using by plotting isoclines of the ODE.
 
 ### Further Improvements
